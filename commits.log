@@ -1,0 +1,104 @@
+commit c2afcae45b6a0926b719af44365fd220067ae920
+Author: Wilmer Acero <w368acero.gmail.com>
+Date:   Sat Oct 8 22:19:26 2022 -0400
+
+    Agregando 2 párafos
+
+commit 75eafca317112e5a7704d28e3f88eac5d3d79f3c
+Merge: 169aba2 d938d6e
+Author: Wilmer Acero <w368acero.gmail.com>
+Date:   Sat Oct 8 22:15:32 2022 -0400
+
+    Resolviendo en estaciones del año con fechas de inicio
+
+commit 169aba2fa5339e3d07e4611658021a75b356f809
+Author: Wilmer Acero <w368acero.gmail.com>
+Date:   Sat Oct 8 21:39:34 2022 -0400
+
+    Agregando estaciones del año con fecha de inicio
+
+commit d938d6e68ef42234ed0be103d5130e14118e59d2
+Author: Wilmer Acero <w368acero.gmail.com>
+Date:   Sat Oct 8 21:39:34 2022 -0400
+
+    Agregando las estaciones del año
+
+commit 383aaecc0a44791159fa60f9f8dd7a60fa7e561a
+Merge: e3f05dd c7ebf60
+Author: Wilmer Acero <w368acero.gmail.com>
+Date:   Sat Oct 8 21:32:07 2022 -0400
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit c7ebf60b42428cf3275e2d696f5f1049adde3bc3
+Author: Wilmer Acero <w368acero.gmail.com>
+Date:   Sat Oct 8 21:19:10 2022 -0400
+
+    Agregando index.js al index.html
+
+commit e3f05dd59848e5860238b1b2ea2e4c83c911722f
+Author: Wilmer Acero <w368acero.gmail.com>
+Date:   Sat Oct 8 21:13:37 2022 -0400
+
+    Agregando style.css al index.html
+
+commit 5c872ddcab871f6b40d9570f1e314cc8d4aacf84
+Author: Wilmer Acero <w368acero.gmail.com>
+Date:   Fri Oct 7 16:30:08 2022 -0400
+
+    update css
+
+commit 07ef34a1c926bbd41feaa95fbe1ac643168940e7
+Merge: 67c4a98 5041a82
+Author: Wilmer Acero <w368acero.gmail.com>
+Date:   Fri Oct 7 15:56:50 2022 -0400
+
+    Merge branch 'js'
+
+commit 5041a82d04c100c6e8ea2ba57e7251fb547b76c7
+Author: Wilmer Acero <w368acero.gmail.com>
+Date:   Fri Oct 7 15:47:28 2022 -0400
+
+    Creando index.js
+
+commit 67c4a98d5d620532f9f5ddb9f25efdf4278be694
+Author: Wilmer Acero <w368acero.gmail.com>
+Date:   Fri Oct 7 15:38:29 2022 -0400
+
+    Creando style.css
+
+commit cd8b37d1acae20c1fe8a41c484c373183e19626f
+Author: Wilmer Acero <w368acero.gmail.com>
+Date:   Fri Oct 7 15:31:06 2022 -0400
+
+    Creando index.html
+
+commit d66b6c7159592e664d77ce0fa4627e188baef48e
+Author: Wilmer Acero <w368acero.gmail.com>
+Date:   Fri Oct 7 14:47:33 2022 -0400
+
+    Ignora archivos *.dmg
+
+commit e59d241227a82c7133dd9278ecabed0d4ed000b2
+Author: @willacetj <w368acero@gmail.com>
+Date:   Thu Oct 6 21:26:13 2022 -0400
+
+    Creando licencia del repositorio
+
+commit 8048ac3b2b66815cfc522d31260686f6b5ef5ab7
+Author: Wilmer Acero <w368acero.gmail.com>
+Date:   Thu Oct 6 21:01:50 2022 -0400
+
+    Se agregó más contenido a README
+
+commit 75e7c64394a6b0d82a917e2fa21b07eabb6a9735
+Author: Wilmer Acero <w368acero.gmail.com>
+Date:   Thu Oct 6 20:44:23 2022 -0400
+
+    Agregado contenido a README
+
+commit fd77a042b8f8dd0163e6812e7c756c934101a993
+Author: Wilmer Acero <w368acero.gmail.com>
+Date:   Thu Oct 6 20:40:38 2022 -0400
+
+    Primer commit 😀
